@@ -41,3 +41,4 @@ console.log(reverseWords('you should try them all')); // "all them try should yo
 ***
 - Russian - Native
 - English - Elementary
+- Polish - Elementary
