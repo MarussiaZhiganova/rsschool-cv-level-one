@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/MarussiaZhiganova/rsschool-cv
