@@ -1,1 +1,1 @@
-https://github.com/MarussiaZhiganova/rsschool-cv/tree/rsschool-cv-html
+https://MarussiaZhiganova.github.io/rsschool-cv/
