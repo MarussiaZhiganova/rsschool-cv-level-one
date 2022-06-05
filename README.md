@@ -1,1 +1,1 @@
-https://github.com/MarussiaZhiganova/rsschool-cv/blob/gh-pages/cv.md
+https://MarussiaZhiganova.github.io/rsschool-cv/
